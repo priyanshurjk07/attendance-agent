@@ -13,3 +13,4 @@ groq
 deep-sort-realtime
 python-dotenv
 streamlit
+sounddevice
