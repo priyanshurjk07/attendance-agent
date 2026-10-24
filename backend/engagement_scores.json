@@ -1,0 +1,66 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "face_present_ratio": 0.82,
+      "avg_movement": 23.5,
+      "speech_ratio": 0.25,
+      "noise_ratio": 0.75,
+      "silence_ratio": 0.0,
+      "avg_amplitude": 0.0212,
+      "score": 70.3,
+      "level": "high"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "face_present_ratio": 0.96,
+      "avg_movement": 37.9,
+      "speech_ratio": 0.25,
+      "noise_ratio": 0.75,
+      "silence_ratio": 0.0,
+      "avg_amplitude": 0.015,
+      "score": 75.9,
+      "level": "high"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "face_present_ratio": 0.51,
+      "avg_movement": 20.7,
+      "speech_ratio": 0.0,
+      "noise_ratio": 0.0,
+      "silence_ratio": 1.0,
+      "avg_amplitude": 0.0051,
+      "score": 50.4,
+      "level": "medium"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "face_present_ratio": 0.15,
+      "avg_movement": 2.1,
+      "speech_ratio": 0.0,
+      "noise_ratio": 0.25,
+      "silence_ratio": 0.75,
+      "avg_amplitude": 0.0069,
+      "score": 23.5,
+      "level": "low"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "face_present_ratio": 0.4,
+      "avg_movement": 1.2,
+      "speech_ratio": 0.25,
+      "noise_ratio": 0.0,
+      "silence_ratio": 0.75,
+      "avg_amplitude": 0.0134,
+      "score": 51.0,
+      "level": "medium"
+    }
+  ],
+  "average_score": 54.2,
+  "overall_level": "medium"
+}
