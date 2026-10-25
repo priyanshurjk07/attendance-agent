@@ -12,7 +12,7 @@ class SignalFusion:
 
         segments = []
         start = 0.0
-        while start <= end_time:
+        while start < end_time - 0.5:
             stop = start + self.interval
             v = [x for x in visual_samples if start <= x["time"] < stop]
             a = [x for x in audio_windows if start <= x["time"] < stop]

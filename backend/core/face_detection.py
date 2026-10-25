@@ -12,7 +12,7 @@ class FaceDetector:
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
         gray = cv2.equalizeHist(gray)
         faces = self.face_cascade.detectMultiScale(
-            gray, scaleFactor=1.1, minNeighbors=4, minSize=(30, 30)
+            gray, scaleFactor=1.1, minNeighbors=6, minSize=(80, 80)
         )
         detections = []
         for (x, y, w, h) in faces:
