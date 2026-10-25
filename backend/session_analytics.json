@@ -1,0 +1,47 @@
+{
+  "attendance": {
+    "marked_present": true,
+    "marked_present_at": "2026-10-24 13:59:46",
+    "session_seconds": 10.0
+  },
+  "participation": {
+    "visible_seconds": 9.6,
+    "speaking_seconds": 3.0,
+    "focused_seconds": 10.0,
+    "average_score": 85.4,
+    "overall_level": "high",
+    "consistency": "moderately varied"
+  },
+  "timeline": [
+    {
+      "time": "0.0-2.0s",
+      "score": 97.5,
+      "level": "high"
+    },
+    {
+      "time": "2.0-4.0s",
+      "score": 100.0,
+      "level": "high"
+    },
+    {
+      "time": "4.0-6.0s",
+      "score": 65.1,
+      "level": "medium"
+    },
+    {
+      "time": "6.0-8.0s",
+      "score": 70.0,
+      "level": "high"
+    },
+    {
+      "time": "8.0-10.0s",
+      "score": 94.4,
+      "level": "high"
+    }
+  ],
+  "reflection": [
+    "Your engagement was moderately varied during this session.",
+    "Your strongest focus was around 2.0-4.0s."
+  ],
+  "privacy_note": "This summary describes only your own session. It is not a grade and is not compared with other participants."
+}

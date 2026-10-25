@@ -34,7 +34,7 @@ class AudioAnalyzer:
         return results
 
     
-    def analyze(self, features, silence_level=0.01, speech_level=0.02):
+    def analyze(self, features, silence_level=0.01, speech_level=0.012):
         """Label each window and summarise the whole session."""
         labeled = []
         for f in features:
