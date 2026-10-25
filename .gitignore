@@ -1,2 +1,11 @@
-venv/ 
+venv/
 .env
+__pycache__/
+*.pyc
+backend/audio_features.json
+backend/fused_data.json
+backend/engagement_scores.json
+backend/recommendations.json
+backend/session_analytics.json
+backend/ai_insight.json
+backend/attendance_log.json
