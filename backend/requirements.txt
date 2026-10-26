@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-opencv-python
+opencv-contrib-python==4.10.0.84
 mediapipe
 numpy
 pandas
@@ -14,3 +14,4 @@ deep-sort-realtime
 python-dotenv
 streamlit
 sounddevice
+google-genai
